@@ -14,7 +14,8 @@ Femboy paste is a cheat im making to learn how to make cheats.
 Femboy paste only has basic hacks like "Bhop", "TriggerBot" and "Recoil Control".
 
 [Old Image] <- Recoil was added recently hence the no new image
-![image](https://user-images.githubusercontent.com/53715423/178146513-6e85ec14-7235-446c-b763-65c0a80a96d9.png)
+![image](https://user-images.githubusercontent.com/53715423/178334066-fa722dee-0b2f-472c-97f6-a254ffa189a9.png)
+
 
 ## Issues
 
