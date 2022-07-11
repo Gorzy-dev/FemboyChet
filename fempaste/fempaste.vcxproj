@@ -112,7 +112,7 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <LanguageStandard>Default</LanguageStandard>
+      <LanguageStandard>stdcpp17</LanguageStandard>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
       <SupportJustMyCode>true</SupportJustMyCode>
       <Optimization>Disabled</Optimization>
@@ -177,6 +177,7 @@
     <ClCompile Include="imgui\imgui_impl_win32.cpp" />
     <ClCompile Include="imgui\imgui_widgets.cpp" />
     <ClCompile Include="Localplayer.cpp" />
+    <ClCompile Include="Misc.cpp" />
     <ClCompile Include="Recoil.cpp" />
     <ClCompile Include="Triggerbot.cpp" />
   </ItemGroup>
@@ -199,6 +200,7 @@
     <ClInclude Include="include.h" />
     <ClInclude Include="Localplayer.h" />
     <ClInclude Include="MenuControls.h" />
+    <ClInclude Include="Misc.h" />
     <ClInclude Include="Recoil.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="Triggerbot.h" />

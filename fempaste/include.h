@@ -46,3 +46,5 @@ DWORD Global_EngineModule;
 #include "Bhop.h"
 #include "Triggerbot.h"
 #include "Recoil.h"
+
+//Fonts

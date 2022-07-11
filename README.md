@@ -1,4 +1,4 @@
-# FemboyChet-v1
+# FemboyPaste-v1
 
 Femboy paste is a cheat im making to learn how to make cheats.
 
